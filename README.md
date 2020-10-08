@@ -6,5 +6,5 @@ Checkout the django app [here](https://bugxsheroku.herokuapp.com)
 Checkout the live website at [bugxs.co](https://bugxs.co)
 
 >**Spoiler Alert**  
-This project is currently hosted on heroku and runs on only one "dyno" and hence can take some time to load.
+The Django application is currently hosted on heroku and runs on only one "dyno"; Hence it can take some time to load.
 
