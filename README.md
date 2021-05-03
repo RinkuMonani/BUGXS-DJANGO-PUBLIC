@@ -3,7 +3,7 @@
 This repository will take you to my _"under construction"_ project **'BUGXS'.**
 
 Checkout the django app [here](https://bugxsheroku.herokuapp.com)  
-Checkout the live website at [bugxs.co](https://bugxs.co)
+Checkout the live website at [bugxs.co](https://www.bugxs.co)
 
 >**Spoiler Alert**  
 The Django application is currently hosted on heroku and runs on only one "dyno"; Hence it can take some time to load.
